@@ -44,10 +44,6 @@ To get a comprehensive overview of the website's functionalities and design, ple
 ## Screenshots
 Here are some screenshots showcasing different aspects of the website:
 
-### Home Page
-Home Page link 🐕:
-https://ihssane5.github.io/Pet-Adoption-Website-Project/
-
 ### Pet Listing
 ![Pet Listing](./screenshots/Adopt.png)
 
